@@ -4,13 +4,13 @@
 - 🌱 Estou aprendendo React e fazendo projetos usando HTML,CSS e JavaScript.
 
 
-<div align="center" display="block">
+<div align="center" display="inline-block">
   <a href="https://github.com/victormrtns">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victormrtns&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormrtns&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-  <div style="display: inline_block" padding-bottom: 2px,padding-top: 50x><br>
+  <div style="display: inline-block" padding-bottom: 2px,padding-top: 50x><br>
   <img align="center" alt="VH-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="VH-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="VH-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
