@@ -1,7 +1,6 @@
 ### Oi,eu sou o Victor !
 
-- 🤓 Atualmente trabalho com front-End.
-- 🌱 Estou aprendendo React e fazendo projetos usando HTML,CSS e JavaScript.
+- 🌱 Estou estudando Spring e Java, tenho projetos que usam algumas tecnologias como Java, C, HTML, CSS e Python 
 
 
 <div align="center" display="inline-block">
@@ -11,9 +10,11 @@
 </div>
   
   <div style="display: inline-block" padding-bottom: 2px,padding-top: 50x><br>
-  <img align="center" alt="VH-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="VH-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
+  <img align="center" alt="VH-Spr" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+
   <img align="center" alt="VH-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="VH-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="VH-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="VH-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="VH-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
