@@ -1,6 +1,6 @@
 ### Oi,eu sou o Victor !
 
-- 🌱 Estou estudando Spring, Java e Python, tenho projetos que usam algumas tecnologias como Java, C, HTML, CSS e Python 
+- 🌱 Estou estudando React e tenho projetos que usam algumas tecnologias como Java, C, React, JavaScript HTML, CSS e Python 
 
 
 <div align="center" display="inline-block">
