@@ -1,4 +1,4 @@
-
+![Header](./github-header-image.png)
 <h1 align="center">Oi 👋, Eu sou o Victor Hugo</h1>
 <h3 align="center">Um desenvolvedor Full-Stack na Linear SM e estudante de Ciências da Computação na Unesp</h3>
 
