@@ -4,7 +4,7 @@
 
 - 🔭 Estou trabalhando atualmente na empresa **Linear Softwares Matemáticos** como desenvolvedor Full-Stack
 
-- 🌱 Estou Estudando atualmente **.NET, ASP.NET, C# e SQL** com objetivo de me especializar mais em back-end
+- 🌱 Estou Estudando atualmente ** React, .NET, ASP.NET, C#, SQL** com objetivo de me especializar mais em desenvolvimento full-stack
 
 - 🤝 Procuro ajudar em **Projetos que possam auxiliar no meu aprendizado**
 
