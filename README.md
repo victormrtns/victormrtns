@@ -4,11 +4,11 @@
 
 - 🔭 Estou trabalhando atualmente na empresa **Linear Softwares Matemáticos** como desenvolvedor Full-Stack
 
-- 🌱 Estou Estudando atualmente **React, .NET, ASP.NET, C#, SQL** com objetivo de me especializar mais em desenvolvimento full-stack
+- 🌱 Estou Estudando atualmente **React, Node, Nest, TypeScript, .NET, ASP.NET, C#, SQL** com objetivo de me especializar mais em desenvolvimento full-stack
 
 - 🤝 Procuro ajudar em **Projetos que possam auxiliar no meu aprendizado**
 
-- 💬 Tenho conhecimentos e gosto de conversar sobre: **C#, Java, JavaScript, Jquery, Python, HTML, CSS, C e SQL**
+- 💬 Tenho conhecimentos e gosto de conversar sobre: **C#, Java, JavaScript, TypeScript, Jquery, Python, HTML, CSS, C e SQL**
 
 - 📫 Como me contatar **vmhugo00@gmail.com**
 
@@ -20,6 +20,8 @@
 
 <p align="left">
   <strong>Linguagens de Programação:</strong><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   </a>
@@ -76,6 +78,10 @@
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/>
   </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo"  />
 </p>
 
 <p align="left">
