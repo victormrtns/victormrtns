@@ -4,11 +4,11 @@
 
 - 🔭 Estou trabalhando atualmente na empresa **Linear Softwares Matemáticos** como desenvolvedor Full-Stack
 
-- 🌱 Estou Estudando e trabalhando atualmente com **React, Node, Nest, TypeScript, .NET, ASP.NET, C#, SQL** com foco em desenvolvimento Back-End
+- 🌱 Estou Estudando e trabalhando atualmente com **Node, Nest, .NET, React, Angular, Vue ** com foco em desenvolvimento Back-End
 
 - 🤝 Procuro ajudar em **Projetos que possam auxiliar no meu aprendizado**
 
-- 💬 Tenho conhecimentos e gosto de conversar sobre: **C#, Java, JavaScript, TypeScript, Jquery, Python, HTML, CSS, C e SQL**
+- 💬 Tenho conhecimentos e gosto de conversar sobre: **JavaScript, TypeScript, C#, Java, Python**
 
 - 📫 Como me contatar **vmhugo00@gmail.com**
 
