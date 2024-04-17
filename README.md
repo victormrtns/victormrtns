@@ -23,7 +23,7 @@
 </p>
 
 <p align="left">
-  <strong>Tecnologies:</strong><br>
+  <strong>Technologies:</strong><br>
 
   [![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,spring,dotnet,react,vue,angular,nextjs&theme=dark&perline=4)](https://skillicons.dev)
 </p>
