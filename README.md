@@ -4,7 +4,7 @@
 
 - 🔭 Estou trabalhando atualmente na empresa **Linear Softwares Matemáticos** como desenvolvedor Full-Stack
 
-- 🌱 Estou Estudando e trabalhando atualmente com **Node, Nest, .NET, React, Angular, Vue ** com foco em desenvolvimento Back-End
+- 🌱 Estou Estudando e trabalhando atualmente com **Node, Nest, .NET, React, Angular, Vue** com foco em desenvolvimento Back-End
 
 - 🤝 Procuro ajudar em **Projetos que possam auxiliar no meu aprendizado**
 
