@@ -4,7 +4,7 @@
 
 - 🌱 Work in my main job with: **React, Jquery, .NET, C#, JavaScript and MySQL** com foco em desenvolvimento Back-End
 
-- Working in freelances, side jobs and side projects: **Node, Nest, Spring, React, Angular, Vue, TypeScript, Go and JavaScript**. Focusing Back-end Development.
+- Working in freelances, side jobs and side projects with: **Node, Nest, Spring, React, Angular, Vue, TypeScript, Go and JavaScript**. Focusing Back-end Development.
 
 - 💬 I have expertise and enjoy talking about: **Back-End Development, Microsservices, Concurrency, Paralelism, Apps and Design Patterns**
 
