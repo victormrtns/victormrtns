@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Victor</h1>
 <h3 align="center">A Full-Stack developer at Linear SM and a Computer Science student at Unesp.</h3>
 
-- 🌱 Work in my main job with: **React, Jquery, .NET, C#, JavaScript and MySQL** com foco em desenvolvimento Back-End
+- 🌱 Work in my main job with: **React, Jquery, .NET, C#, JavaScript and MySQL**
 
 - Working in freelances, side jobs and side projects with: **Node, Nest, Spring, React, Angular, Vue, TypeScript, Go and JavaScript**. Focusing Back-end Development.
 
