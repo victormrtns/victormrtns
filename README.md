@@ -32,7 +32,7 @@
 <p align="left">
   <strong>Other:</strong><br>
   
-  [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,firebase,figma,github,jest,vite,vitest&theme=dark&perline=4)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,redis,firebase,figma,github,jest,vite,vitest&theme=dark&perline=4)](https://skillicons.dev)
 </p>
 
 ![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victormrtns&show_icons=true&theme=radical)
