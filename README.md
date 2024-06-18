@@ -1,10 +1,10 @@
 ![Header](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">Hi 👋, I'm Victor</h1>
-<h3 align="center">A Full-Stack developer at Linear SM and a Computer Science student at Unesp.</h3>
+<h3 align="center">A Front-End developer at SmartNX and a Computer Science student at Unesp.</h3>
 
-- 🌱 Work in my main job with: **React, Jquery, .NET, C#, JavaScript and MySQL**
+- 🌱 Work in my main job with: **React, JavaScript, Git, GitHub, Agile, Scrum, Kanban**
 
-- Working in freelances, side jobs and side projects with: **Node, Nest, Spring, React, Angular, Vue, TypeScript, Go and JavaScript**. Focusing Back-end Development.
+- Working in freelances, side jobs and side projects with: **Node, Nest, Spring, React, Angular, Vue, TypeScript, Go and JavaScript**. Focusing Full-Stack Development.
 
 - 💬 I have expertise and enjoy talking about: **Back-End Development, Microsservices, Concurrency, Paralelism, Apps and Design Patterns**
 
