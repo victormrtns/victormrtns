@@ -1,12 +1,12 @@
 ![Header](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">Hi 👋, I'm Victor</h1>
-<h3 align="center">A Front-End developer at SmartNX and a Computer Science student at Unesp.</h3>
+<h3 align="center">A Front-End and Mobile developer at SmartNX and a Computer Science student at Unesp.</h3>
 
-- 🌱 Work in my main job with: **React, JavaScript, Git, GitHub, Agile, Scrum, Kanban**
+- 🌱 Work in my main job with: **React, TypeScript, JavaScript, Git, GitHub, Agile, Scrum, Kanban**
 
-- Working in freelances, side jobs and side projects with: **Node, Nest, Spring, React, Angular, Vue, TypeScript, Go and JavaScript**. Focusing Full-Stack Development.
+- Working in freelances, side jobs and side projects with: **React, React Native, Swift, SwiftUI, TypeScript, Node, Nest, Spring and JavaScript**. Focusing on Mobile Development.
 
-- 💬 I have expertise and enjoy talking about: **Back-End Development, Microsservices, Concurrency, Paralelism, Apps and Design Patterns**
+- 💬 I have expertise and enjoy talking about: **Mobile Development, Design Patterns, Apps and Design Systems**
 
 - 📫 How to reach me **vmhugo00@gmail.com**
 
@@ -19,13 +19,13 @@
 <p align="left">
   <strong>Programming Languages:</strong><br>
   
-  [![My Skills](https://skillicons.dev/icons?i=ts,js,java,go,cs&theme=dark)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=swift,ts,js,java&theme=dark)](https://skillicons.dev)
 </p>
 
 <p align="left">
   <strong>Technologies:</strong><br>
 
-  [![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,spring,dotnet,react,vue,angular,nextjs&theme=dark&perline=4)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=swift,react,nextjs,nodejs,nestjs,spring&theme=dark&perline=4)](https://skillicons.dev)
 </p>
 
 
