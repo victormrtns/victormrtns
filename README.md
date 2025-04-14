@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Victor</h1>
 <h3 align="center">A Front-End and Mobile developer at SmartNX and a Computer Science student at Unesp.</h3>
 
-- 🌱 Work in my main job with: **React, TypeScript, JavaScript, Git, GitHub, Agile, Scrum, Kanban**
+- 🌱 Work in my main job with: **React, TypeScript, Swift, SwiftUI, JavaScript, Git, GitHub, Agile, Scrum, Kanban**
 
 - Working in freelances, side jobs and side projects with: **React, React Native, Swift, SwiftUI, TypeScript, Node, Nest, Spring and JavaScript**. Focusing on Mobile Development.
 
