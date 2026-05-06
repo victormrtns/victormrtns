@@ -1,10 +1,10 @@
 ![Header](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">Hi 👋, I'm Victor</h1>
-<h3 align="center">A Front-End and Mobile developer at SmartNX and a Computer Science student at Unesp.</h3>
+<h3 align="center">A Front-End and Backend Dev and a Computer Science student at Unesp.</h3>
 
-- 🌱 Work in my main job with: **React, TypeScript, Swift, SwiftUI, JavaScript, Git, GitHub, Agile, Scrum, Kanban**
+- 🌱 Work in my main job with: **React, TypeScript, Nest, JavaScript, Git, GitHub, Agile, Scrum, Kanban**
 
-- Working in freelances, side jobs and side projects with: **React, React Native, Swift, SwiftUI, TypeScript, Node, Nest, Spring and JavaScript**. Focusing on Mobile Development.
+- Working in freelances, side jobs and side projects with: **React, React Native, TypeScript, Node, Nest, Spring and JavaScript**. Focusing on Mobile Development.
 
 - 💬 I have expertise and enjoy talking about: **Mobile Development, Design Patterns, Apps and Design Systems**
 
