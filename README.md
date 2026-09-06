@@ -19,13 +19,13 @@
 <p align="left">
   <strong>Programming Languages:</strong><br>
   
-  [![My Skills](https://skillicons.dev/icons?i=swift,ts,js,java&theme=dark)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=ts,js,java&theme=dark)](https://skillicons.dev)
 </p>
 
 <p align="left">
   <strong>Technologies:</strong><br>
 
-  [![My Skills](https://skillicons.dev/icons?i=swift,react,nextjs,nodejs,nestjs,spring&theme=dark&perline=4)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,spring&theme=dark&perline=4)](https://skillicons.dev)
 </p>
 
 
@@ -35,5 +35,5 @@
   [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,redis,firebase,figma,github,jest,vite,vitest&theme=dark&perline=4)](https://skillicons.dev)
 </p>
 
-![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victormrtns&show_icons=true&theme=radical)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=victormrtns&theme=tokyonight&hide_border=true&custom_title=Victor+Stats&size=compact)
 
